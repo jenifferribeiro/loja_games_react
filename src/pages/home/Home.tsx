@@ -26,7 +26,7 @@ function Home() {
                             text-5xl
                             font-bold
                         ">Seja Bem Vinde!</h2>
-                        <p className="text-xl">Aproveite seus jogos</p>
+                        <p className="text-xl">Loja de Games</p>
 
                         <div className="
                             flex 
@@ -42,7 +42,7 @@ function Home() {
                                 px-4 
                                 py-2
                                 ">
-                                Novo produto
+                                Novo Produto
                             </div>
                         </div>
                     </div>
@@ -52,7 +52,7 @@ function Home() {
                         justify-center
                         ">
                         <img
-                            src= "../../assets/imagens/videoGame.jpg"
+                            src="https://i.imgur.com/Fm8Ix8X.jpg"
                             alt="Imagem da Página Home"
                             className="w-2/3"
                         />
